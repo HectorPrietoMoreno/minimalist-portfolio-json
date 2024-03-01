@@ -1,191 +1,116 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Hector Prieto Moreno",
+    "label": "Full-Stack developer with more than 7 years of experience & technical lead",
+    "image": "/cv-photo.webp",
+    "email": "hector.prieto.moreno@gmail.com",
+    "phone": "+34 645 64 09 31",
+    "summary": "With over 7 years as a Front End Engineer and Tech Lead, I specialize in JavaScript, TypeScript, and React. Experienced in leading teams across Europe and the US, I stay updated with the latest frameworks and libraries, ensuring cutting-edge solutions and seamless user experiences.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "postalCode": "28600",
+      "city": "Navalcarnero, Madrid",
       "countryCode": "ES",
-      "region": "España"
+      "region": "Spain"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "Hector Prieto Moreno",
+        "url": "https://www.linkedin.com/in/hector-prieto-moreno-886917114/"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "HectorPrietoMoreno",
+        "url": "https://github.com/HectorPrietoMoreno"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Roc360",
+      "position": "Full Stack Engineer & Tech Lead",
+      "url": "https://roc360.com/",
+      "startDate": "2022-01-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "As a Senior Full-stack Engineer, I took charge of feature development from conceptualization to Production Support. My role as Tech Lead involved spearheading epics and new feature initiatives, while also designing and integrating APIs for seamless system communication."
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Macy's",
+      "position": "Senior UI Engineer & Tech Lead",
+      "url": "https://www.macys.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Led development efforts for Bloomingdale's Outlet project as the primary developer. Additionally, served as the Lead and Senior UI Developer for the Macy's project, utilizing Vue3, jest, storybooks, SaSS, Axios, Vuex, and Vue router. Collaborated closely with Backend and UX Design teams, contributing to API design and integration."
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Cognizant - Wal-mart",
+      "position": "Senior UI Engineer & Tech Lead",
+      "url": "https://www.walmart.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "summary": "Seasoned developer for a web application, proficient in React, Redux, TypeScript, JavaScript, NodeJS, Axios, React Hooks, StoryBooks, React Testing, Enzyme, Functional Components, and Material UI. As a Tech Lead, led a dependent project from conception to production release, overseeing all aspects of development, testing, and integration. Collaborated closely with Backend and UX Design teams for API design and integration. Skilled in NodeJS server management and experienced in designing and developing architecture and cross-application components such as SSO, Role Management, and Feature Toggle."
+    },
+    {
+      "name": "Cognizant - Verizon",
+      "position": "Principal UI Engineer",
+      "url": "https://www.verizon.com/",
+      "startDate": "2020-01-01",
+      "endDate": "2020-01-01",
+      "summary": "Experienced Senior Developer adept in transitioning Angular to React applications. Proficient in analysis, development, testing, integration, and support. Skilled in Angular, React, Redux, and Microservices, with experience in AEM (Adobe Experience Manager)."
+    },
+    {
+      "name": "Accenture",
+      "position": "Main Lecturer in BBVA Front Architecture",
+      "url": "https://www.accenture.com/es-es",
+      "startDate": "2019-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Led a comprehensive 4-day course on BBVA Front End architecture, educating two groups of fifteen front end experts. Designed lecture topics covering ES6, WebComponents, Polymer, and Cells. Developed all necessary documentation and practical exercises to enhance learning outcomes."
+    },
+    {
+      "name": "Grupo Digital - BBVA",
+      "position": "Senior Front End Developer",
+      "url": "https://www.bbva.es/",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "summary": "Contributed to the development, testing, and deployment of non-client onboarding solutions for enterprises in Spain, Mexico, and Peru within the Global BBVA Web Components-based architecture. Established and led a Front End developer community focused on sharing Web Components, best practices, and experiences to enhance code quality."
+    },
+    {
+      "name": "Babel - ING Bank",
+      "position": "Junior Full Stack Developer",
+      "url": "https://www.ing.es/",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01",
+      "summary": "Played a key role in the development of an ING Bank project for the Czech Republic, utilizing Backbone.js with Marionette. Contributed to all phases, from definition to deployment, ensuring a successful release into production. Actively engaged in Front End Chapter tasks to enhance code quality and implement team-cross features. Additionally, contributed to Quality Guild initiatives by defining and developing testing and continuous delivery tools. Pioneered the initial stages of the Global ING bank (Rubik) using LitElement and Redux. Furthermore, independently developed the client side of a website for agent creation using React and Redux."
+    }
+    
+  ],
+  "education": [
+    {
+      "institution": "Universidad Politecnica de Madrid",
+      "url": "https://www.uoc.edu/portal/es/index.html",
+      "area": "Telematics Engineering B. Eng",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2017-01-01"
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
   "skills": [
-    {
-      "name": "HTML",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    }
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "TypeScript",
+    "Tailwind",
+    "Next.js",
+    "React",
+    "VueJS",
+    "Polymer",
+    "Java",
+    "Spring Boot",
+    "MySQL",
+    "PostgreSQL",
+    "GitHub",
+    "Git"
   ],
   "languages": [
     {
@@ -197,79 +122,66 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "astro-first-app",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Astro 4 playground for testing features and learning",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "astro",
+        "netlify",
+        "blog",
+        "static content"
       ],
-      "url": "https://mars.codes"
+      "url": "https://tiny-creponne-4bb2f6.netlify.app/",
+      "github": "https://github.com/HectorPrietoMoreno/astro-first-app"
     },
     {
-      "name": "AdventJS",
+      "name": "nextjs-first-app",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Next.js playground for testing features and learning",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "nextjs",
+        "vercel",
+        "postgreSQL"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://nextjs-first-app-kappa.vercel.app/",
+      "github": "https://github.com/HectorPrietoMoreno/nextjs-first-app"
     },
     {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
+      "name": "clothing-store-app",
+      "isActive": false,
+      "description": "React Application",
       "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
+        "React",
+        "JavaScript",
+        "Hooks",
+        "Redux"
       ],
-      "url": "https://codember.dev"
+      "github": "https://github.com/HectorPrietoMoreno/clothing-store-app"
     },
     {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
+      "name": "ReactJS-Apollo-POC",
+      "isActive": false,
+      "description": "GraphQL integration in a React App using Apollo",
       "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
+        "React",
+        "JavaScript",
+        "Apollo",
+        "GraphQL"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "github": "https://github.com/HectorPrietoMoreno/ReactJS-Apollo-POC"
     },
     {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
+      "name": "polymer-timers",
+      "isActive": false,
+      "description": "Google Polymer app for testing feature and learning",
       "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "PolymerJS",
+        "JavaScript",
+        "Web Components"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "github": "https://github.com/HectorPrietoMoreno/polymer-timers"
     }
   ]
 }
